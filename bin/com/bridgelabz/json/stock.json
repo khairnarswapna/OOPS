@@ -1,0 +1,27 @@
+{"Stock":[
+            {
+            "Stock_Name":"Kirloskar",
+            "Number_of_shares":25,
+            "Share_Prize":50
+            },
+           
+            {
+            "Stock_Name":"TATA Motors",
+            "Number_of_shares":30,
+            "Share_Prize":34
+            },
+           
+           
+            {
+            "Stock_Name":"WIPRO",
+            "Number_of_shares":20,
+            "Share_Prize":40
+            },
+            {
+            "Stock_Name":"Godrej Group",
+            "Number_of_shares":60,
+            "Share_Prize":70
+               
+            }
+           ]
+    }
