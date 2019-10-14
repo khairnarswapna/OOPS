@@ -1,6 +1,7 @@
 package com.bridgelabz.oop;
 
 import java.io.File;
+
 import java.io.IOException;
 import java.util.Scanner;
 
@@ -35,7 +36,9 @@ public class InventoryMgt {
 				System.out.println("total: "+price*weight+"\n");
 			}
 
-		} catch (IOException e) {
+		}
+		catch (IOException e) 
+		{
 			System.out.println(""+e.getMessage());		
 			e.printStackTrace();
 		}
